@@ -1,5 +1,5 @@
 /* 
-- O operador lógico || é conhecido com OR;
+- O operador lógico || é conhecido como OR;
 - Ele retorna true caso uma das operações retorne verdadeiro;
 - O OR retorna false apenas se as duas expressões são falsas;
 */
